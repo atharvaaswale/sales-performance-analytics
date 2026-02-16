@@ -1,4 +1,4 @@
-# Sales Performance Analytics 📊
+# Customer Behaviour Analytics 📊
 
 This project provides a comprehensive **end-to-end data analytics pipeline** designed to transform raw retail data into actionable business intelligence. By tracking 3,900 customer transactions, we identified critical trends in expenditure, customer loyalty, and product performance.
 
