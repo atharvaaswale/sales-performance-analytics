@@ -7,7 +7,7 @@ Below is the visual command center that allows stakeholders to filter intelligen
 
 
 
-> **Note:** Replace the placeholder above with your actual screenshot from the `Power BI` folder.
+![Customer Behavior Dashboard](images/dashboard_screenshot.png)
 
 ---
 
